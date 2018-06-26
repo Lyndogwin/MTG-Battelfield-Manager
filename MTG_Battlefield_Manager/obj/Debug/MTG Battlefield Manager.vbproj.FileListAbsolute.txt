@@ -1,0 +1,32 @@
+c:\users\brand\source\repos\MTG Battlefield Manager\MTG Battlefield Manager\bin\Debug\MTG Battlefield Manager.exe.config
+c:\users\brand\source\repos\MTG Battlefield Manager\MTG Battlefield Manager\bin\Debug\MTG Battlefield Manager.exe
+c:\users\brand\source\repos\MTG Battlefield Manager\MTG Battlefield Manager\bin\Debug\MTG Battlefield Manager.pdb
+c:\users\brand\source\repos\MTG Battlefield Manager\MTG Battlefield Manager\bin\Debug\MTG Battlefield Manager.xml
+c:\users\brand\source\repos\MTG Battlefield Manager\MTG Battlefield Manager\obj\Debug\MTG Battlefield Manager.vbprojResolveAssemblyReference.cache
+c:\users\brand\source\repos\MTG Battlefield Manager\MTG Battlefield Manager\obj\Debug\MTG_Battlefield_Manager.Resources.resources
+c:\users\brand\source\repos\MTG Battlefield Manager\MTG Battlefield Manager\obj\Debug\MTG Battlefield Manager.vbproj.GenerateResource.Cache
+c:\users\brand\source\repos\MTG Battlefield Manager\MTG Battlefield Manager\obj\Debug\MTG Battlefield Manager.vbproj.CoreCompileInputs.cache
+c:\users\brand\source\repos\MTG Battlefield Manager\MTG Battlefield Manager\obj\Debug\MTG Battlefield Manager.exe
+c:\users\brand\source\repos\MTG Battlefield Manager\MTG Battlefield Manager\obj\Debug\MTG Battlefield Manager.xml
+c:\users\brand\source\repos\MTG Battlefield Manager\MTG Battlefield Manager\obj\Debug\MTG Battlefield Manager.pdb
+C:\Users\brand\source\repos\MTG Battlefield Manager\MTG Battlefield Manager\obj\Debug\MTG_Battlefield_Manager.TokenTab.resources
+C:\Users\brand\source\repos\MTG Battlefield Manager\MTG Battlefield Manager\obj\Debug\MTG_Battlefield_Manager.TokenInput.resources
+C:\Users\brand\source\repos\MTG Battlefield Manager\MTG Battlefield Manager\obj\Debug\MTG_Battlefield_Manager.PlayerStatus.resources
+C:\Users\brand\source\repos\MTG Battlefield Manager\MTG Battlefield Manager\obj\Debug\MTG_Battlefield_Manager.addFieldState.resources
+C:\Users\brand\source\repos\MTG Battlefield Manager\MTG Battlefield Manager\obj\Debug\MTG_Battlefield_Manager.deleteFieldState.resources
+C:\Users\brand\OneDrive\Pictures\OneDrive\source\repos\MTG Battlefield Manager\MTG Battlefield Manager\bin\Debug\MTG Battlefield Manager.exe.config
+C:\Users\brand\OneDrive\Pictures\OneDrive\source\repos\MTG Battlefield Manager\MTG Battlefield Manager\bin\Debug\MTG Battlefield Manager.exe
+C:\Users\brand\OneDrive\Pictures\OneDrive\source\repos\MTG Battlefield Manager\MTG Battlefield Manager\bin\Debug\MTG Battlefield Manager.pdb
+C:\Users\brand\OneDrive\Pictures\OneDrive\source\repos\MTG Battlefield Manager\MTG Battlefield Manager\bin\Debug\MTG Battlefield Manager.xml
+C:\Users\brand\OneDrive\Pictures\OneDrive\source\repos\MTG Battlefield Manager\MTG Battlefield Manager\obj\Debug\MTG Battlefield Manager.vbprojResolveAssemblyReference.cache
+C:\Users\brand\OneDrive\Pictures\OneDrive\source\repos\MTG Battlefield Manager\MTG Battlefield Manager\obj\Debug\MTG_Battlefield_Manager.addFieldState.resources
+C:\Users\brand\OneDrive\Pictures\OneDrive\source\repos\MTG Battlefield Manager\MTG Battlefield Manager\obj\Debug\MTG_Battlefield_Manager.deleteFieldState.resources
+C:\Users\brand\OneDrive\Pictures\OneDrive\source\repos\MTG Battlefield Manager\MTG Battlefield Manager\obj\Debug\MTG_Battlefield_Manager.PlayerStatus.resources
+C:\Users\brand\OneDrive\Pictures\OneDrive\source\repos\MTG Battlefield Manager\MTG Battlefield Manager\obj\Debug\MTG_Battlefield_Manager.TokenInput.resources
+C:\Users\brand\OneDrive\Pictures\OneDrive\source\repos\MTG Battlefield Manager\MTG Battlefield Manager\obj\Debug\MTG_Battlefield_Manager.TokenTab.resources
+C:\Users\brand\OneDrive\Pictures\OneDrive\source\repos\MTG Battlefield Manager\MTG Battlefield Manager\obj\Debug\MTG_Battlefield_Manager.Resources.resources
+C:\Users\brand\OneDrive\Pictures\OneDrive\source\repos\MTG Battlefield Manager\MTG Battlefield Manager\obj\Debug\MTG Battlefield Manager.vbproj.GenerateResource.cache
+C:\Users\brand\OneDrive\Pictures\OneDrive\source\repos\MTG Battlefield Manager\MTG Battlefield Manager\obj\Debug\MTG Battlefield Manager.vbproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\Pictures\OneDrive\source\repos\MTG Battlefield Manager\MTG Battlefield Manager\obj\Debug\MTG Battlefield Manager.exe
+C:\Users\brand\OneDrive\Pictures\OneDrive\source\repos\MTG Battlefield Manager\MTG Battlefield Manager\obj\Debug\MTG Battlefield Manager.xml
+C:\Users\brand\OneDrive\Pictures\OneDrive\source\repos\MTG Battlefield Manager\MTG Battlefield Manager\obj\Debug\MTG Battlefield Manager.pdb
